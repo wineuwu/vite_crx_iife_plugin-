@@ -5,7 +5,7 @@
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ddsakura/npm-helloworld.git"
+    "url": "https://github.com/wineuwu/vite_crx_iife_plugin-.git"
   },
   "scripts": {
     "dev": "rollup -c -w",
