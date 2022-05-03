@@ -1,0 +1,1 @@
+Vite and Chrome Extension Practice Plugin

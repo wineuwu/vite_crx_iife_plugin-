@@ -1,0 +1,18 @@
+{
+  "name": "vite_crx_iife",
+  "private": true,
+  "version": "0.0.1",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddsakura/npm-helloworld.git"
+  },
+  "scripts": {
+    "dev": "rollup -c -w",
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "rollup": "^2.71.1",
+    "vite": "^2.9.7"
+  }
+}
