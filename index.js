@@ -80,7 +80,7 @@ const processorWithIIFE = {
 }
 
 
-export const chromeExtension = (fileNames) => {
+const chromeExtension = (fileNames) => {
 
   if (!isArray(fileNames)) {
     return
@@ -95,3 +95,5 @@ export const chromeExtension = (fileNames) => {
     }
   }
 }
+
+module.exports = chromeExtension;
